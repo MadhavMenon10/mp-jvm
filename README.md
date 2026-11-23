@@ -9,8 +9,6 @@ You won't write assembly, and you won't build anything complicated. You will:
 - catch the compiler writing code you never typed,
 - and push the JVM until it runs out of room, on purpose.
 
-**Time:** about 90 minutes. If you have spent more than 2 hours, stop and come to office hours. The MP is not supposed to take that long, and something is probably stuck.
-
 **Which folder do I use?** Use the `java` folder if you take the course in Java, or the `kotlin` folder if you take it in Kotlin. You can ignore the other one. Both tracks have the same parts and the same points. A few questions are different, because the Java and Kotlin compilers make different choices, and seeing those differences is part of the fun.
 
 ---
