@@ -1,4 +1,4 @@
-# mp_jvm
+# mp-jvm
 
 ## Goals and Overview
 
